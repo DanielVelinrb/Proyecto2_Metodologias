@@ -4,47 +4,42 @@ Fecha: 10 de Septiembre de 2023
 
 Scrum Master: Fausto Román
 
-# Equipo Scrum: 
+# Equipo Scrum: Peaky Blinders
 
 ## 1. Product Owner (PO) - Daniel Velin
 
 ### Habilidades Principales:
 
-Gestión de productos
+Gestión de productos.
 
-Conocimientos avanzados en matemáticas
+Conocimientos avanzados en matemáticas.
 
-Experiencia previa en desarrollo de software
+Experiencia previa en desarrollo de software.
 
-Toma de decisiones basadas en datos
+Toma de decisiones basadas en datos.
 
 ###  Experiencia:
-
-5 años como analista de sistemas en XYZ Tech.
 
 Varios proyectos como Product Owner en proyectos ágiles para herramientas educativas.
 
 
-## 2. Desarrollador - Edison Sánchez
+## 2. Desarrollador - Edison Sanchez
 
 ### Habilidades Principales:
 
-Desarrollo en Python
+Desarrollo en Python.
 
-Experiencia en desarrollo de aplicaciones de consola
+Experiencia en desarrollo de aplicaciones de consola.
 
-Conocimientos en bibliotecas matemáticas de Python
-
-
+Conocimientos en bibliotecas matemáticas de Python.
 
 ### Experiencia:
 
-Desarrollador Python.
+Desarrollador de Python.
 
-Ha trabajado en 3 proyectos previos de calculadoras y herramientas matemáticas.
+Ha trabajado en proyectos previos de calculadoras y herramientas matemáticas.
 
 ## 3. Desarrollador - Steveen Zambrano
-
 
 ### Habilidades Principales:
 
@@ -54,6 +49,6 @@ Refactorización de código
 
 ### Experiencia:
 
-Desarrollador Python.
+Desarrollador dePython.
 
-Ha trabajado en 3 proyectos previos de calculadoras y herramientas matemáticas.
+Ha trabajado en proyectos previos de calculadoras y herramientas matemáticas.

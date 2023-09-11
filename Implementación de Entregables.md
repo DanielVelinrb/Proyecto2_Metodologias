@@ -28,6 +28,3 @@
 - Iniciar las pruebas exhaustivas de la función de logaritmos.
 - Completar la función de potenciación y realizar pruebas asociadas.
 
-## Fecha de la Próxima Reunión de Revisión:
-
-[Fecha y hora de la reunión de revisión]

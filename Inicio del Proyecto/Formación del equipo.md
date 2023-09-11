@@ -25,7 +25,7 @@ Toma de decisiones basadas en datos
 Varios proyectos como Product Owner en proyectos ágiles para herramientas educativas.
 
 
-## 2. Desarrollador - Mateo González
+## 2. Desarrollador - Edison Sánchez
 
 ### Habilidades Principales:
 

@@ -7,7 +7,7 @@
 
 **Equipo de Desarrollo Presente:**
  Edison Sanchez
- Steeven Morales
+ Steeven Zambrano
 
 ## Resumen de la Reunión
 
@@ -23,7 +23,7 @@
 **¿Qué haré hoy?:** Continuaré trabajando en la implementación de la función de logaritmos.
 **¿Algo que me esté bloqueando?:** No hay bloqueos en este momento.
 
-### Steeven Morales
+### Steeven Zambrano
 
 **¿Qué hice ayer?:** Completé la implementación de las funciones de exponenciales.
 **¿Qué haré hoy?:** Colaboraré con Edison Sanchez en la implementación de logaritmos.

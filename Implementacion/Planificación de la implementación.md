@@ -1,9 +1,9 @@
 # Documento de Planificación de la Implementación
 
 **Proyecto:** PyCalculator
-**Sprint:** [Número del Sprint]
-**Fecha de Inicio:** [Fecha de inicio del Sprint]
-**Fecha de Finalización:** [Fecha de finalización del Sprint]
+**Sprint:** 1
+**Fecha de Inicio:** 01 de septiembre de 2023
+**Fecha de Finalización:** 10 de septiembre de 2023
 
 ## Objetivos del Sprint:
 

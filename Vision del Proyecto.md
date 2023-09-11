@@ -2,7 +2,7 @@
 
 # Visión del Proyecto
 
-El objetivo de este proyecto es evolucionar una calculadora en terminal, originalmente capaz de realizar solo las cuatro operaciones básicas (suma, resta, multiplicación y división), para convertirla en una herramienta más robusta y versátil que permita a los usuarios realizar operaciones avanzadas, incluyendo cálculos de raíces cuadradas, potencias y logaritmos. Nuestra visión es proporcionar a los usuarios una calculadora de terminal que sea fácil de usar, precisa y capaz de manejar una variedad de cálculos matemáticos, lo que la convertirá en una herramienta esencial para estudiantes, profesionales y entusiastas de las matemáticas y la programación.
+El objetivo de este proyecto es evolucionar una calculadora en terminal, originalmente capaz de realizar solo las cuatro operaciones básicas (suma, resta, multiplicación y división) además del cálculo del seno y coseno de ángulos. De esta manera se busca convertir aeste producto en una herramienta más robusta y versátil que permita a los usuarios realizar operaciones avanzadas, incluyendo cálculos de raíces cuadradas, potencias y logaritmos. Nuestra visión es proporcionar a los usuarios una calculadora de terminal que sea fácil de usar, precisa y capaz de manejar una variedad de cálculos matemáticos, lo que la convertirá en una herramienta esencial para estudiantes, profesionales y entusiastas de las matemáticas y la programación.
 
 ## Objetivos Clave
 

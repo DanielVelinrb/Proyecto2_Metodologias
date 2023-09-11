@@ -24,8 +24,7 @@
 
 ## Cronograma:
 
-- [Fecha y duración de las reuniones de revisión y retrospectiva]
-- [Fechas estimadas para las tareas clave]
+- 10 de septiembre de 2023, 1 hora para realizar la revision 
 
 ## Riesgos y Mitigación:
 

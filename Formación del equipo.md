@@ -4,6 +4,8 @@ Fecha: 10 de Septiembre de 2023
 
 Scrum Master: Fausto Román
 
+# Equipo Scrum: 
+
 ## 1. Product Owner (PO) - Daniel Velin
 
 ### Habilidades Principales:

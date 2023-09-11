@@ -1,0 +1,62 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "faustitoRoman"
+      },
+      "category": "Desarrollo",
+      "creation_time": "2023-09-11T00:38:15.546Z",
+      "id": "3",
+      "prio": 1,
+      "references": [],
+      "title": "Agregar Función de Logaritmos"
+    },
+    {
+      "assignedTo": {
+        "name": "faustitoRoman"
+      },
+      "category": "Desarrollo",
+      "creation_time": "2023-09-11T00:37:58.288Z",
+      "id": "2",
+      "prio": 1,
+      "references": [],
+      "title": "Agregar Función de Potenciación"
+    },
+    {
+      "assignedTo": {
+        "name": "faustitoRoman"
+      },
+      "category": "Desarrollo",
+      "creation_time": "2023-09-11T00:37:34.320Z",
+      "id": "1",
+      "prio": 1,
+      "references": [],
+      "title": "Agregar Función de Raíz Cuadrada"
+    },
+    {
+      "assignedTo": {
+        "name": "faustitoRoman"
+      },
+      "category": "Desarrollo",
+      "creation_time": "2023-09-11T00:38:32.339Z",
+      "id": "4",
+      "prio": 1,
+      "references": [],
+      "title": "Refinar la Interfaz de Usuario"
+    },
+    {
+      "assignedTo": {
+        "name": "faustitoRoman"
+      },
+      "category": "Desarrollo",
+      "creation_time": "2023-09-11T00:38:46.111Z",
+      "id": "5",
+      "prio": 1,
+      "references": [],
+      "title": "Actualizar la Documentación de Usuario"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": []
+}

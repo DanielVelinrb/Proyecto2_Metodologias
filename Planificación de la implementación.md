@@ -33,7 +33,3 @@
   - Mitigación: Asignar recursos adicionales si es necesario.
 - Riesgo: Problemas de calidad en las pruebas.
   - Mitigación: Realizar revisiones de código y pruebas unitarias rigurosas.
-
-## Aprobación:
-
-Este plan de Sprint ha sido revisado y aprobado por [Nombre del Responsable de Proyecto] el [Fecha de Aprobación].
